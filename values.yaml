@@ -1,4 +1,4 @@
-#name: <+stage.variables.name>
+name: jhttp-service
 replicas: 1
 
 image: <+artifact.image>
